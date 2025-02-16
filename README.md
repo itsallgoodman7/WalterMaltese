@@ -1,4 +1,4 @@
-# WalterMaltese
+# Hi everyone, I'm Walter Maltese 👋
 I am an Artificial Intelligence Engineer working at TMC for Leonardo SpA, 
 with 2.5 years of experience in the Software Engineering and AI field, 
 developing projects in the defence & aerospace fields using both Computer Vision and NLP related techniques.
